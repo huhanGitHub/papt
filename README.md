@@ -1,9 +1,9 @@
-# guidedExplore
+# GUI Explore
 Step 1: install required packages in the requirement.txt
 `pip install -r requirement.txt`
 
 Step 2:
-set the following configuration of this test in the dynamic_testing/dynamic_GUI_testing.py：
+set the following configuration of this test in the 'dynamic_testing/dynamic_GUI_testing.py'：
 
 ```python
 deviceId = '192.168.57.105'
@@ -19,7 +19,7 @@ log = r'../data/visited_rate/youtube.txt'
  Note that the apks are all pre-injected into deeplinks and extracted intent parameters and atg in the deeplinks_json and atg_json.
  There may be unpredictable issues, so pls run each app multiple times.
  Pre-login and granting permission in advance will improve the effectiveness of app exploration.
- The code here is not the latest version, but it can still achieve state-of-the-art.
+ The code here is not the latest version, but it can still achieve state-of-the-art to explore Android actvities.
  
  #### Command Line Interface
  `python main.py`
