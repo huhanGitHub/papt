@@ -3,7 +3,7 @@ Step 1: install required packages in the requirement.txt
 `pip install -r requirement.txt`
 
 Step 2:
-set the following configuration of this test in the 'dynamic_testing/dynamic_GUI_testing.py'：
+set the following configuration of this test in the `dynamic_testing/dynamic_GUI_testing.py`：
 
 ```python
 deviceId = '192.168.57.105'
