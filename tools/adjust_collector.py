@@ -317,9 +317,8 @@ def run(device, apk=None):
 
 
 def main():
-    apk = os.path.join(definitions.APK_DIR, "com.twitter.android.apk")
+    # apk = os.path.join(definitions.APK_DIR, "com.twitter.android.apk")
     apk = None
-    # em = definitions.get_device()
     em = Device(definitions.EM_ID, True, False)
     while True:
         run(em, apk)
