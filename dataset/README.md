@@ -1,8 +1,12 @@
 # About Our dataset Papt
 
 This dataset includes pairwise phone-tablet GUIs.
-Current dataset is avaliable at [Papt](https://drive.google.com/drive/folders/1a7IuofYFwntbjFkIjWDE05qvMFJGXtyF?usp=sharing)
+Current dataset is avaliable at [Papt](https://drive.google.com/drive/folders/1a7IuofYFwntbjFkIjWDE05qvMFJGXtyF?usp=sharing).
+
+
 In directory `pair_examples`, there are same GUI pair examples.
+We will dynamically update the newly collected data.
+
 
 All GUI pairs of the same app are placed in the same directory with its `app_id` (provided by Google Play Store) as the folder name.
 For example, pairs of the BBC News application is under folder `bbc.mobile.news.ww`.
