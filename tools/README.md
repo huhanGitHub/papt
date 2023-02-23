@@ -37,7 +37,13 @@ log = r'../data/visited_rate/youtube.txt'
 
 # Loading and preprocess
 In `grouping.py`, there are scripts for grouing isolated GUI compoennts.
+
+
 In `color_map.py` and `data_prepare.py`, there are some scripts for drawing the wireframe of GUI pages and load XML metadata
+
+
 in `run_preprocess.py`, we provide scripts to inject deeplinks into APKs to improve the explore coverage.
+
+
 
 
