@@ -33,7 +33,12 @@ The entire data collection pipeline is the following:
 4. Run `adjust_collector.py` to collect the data.
 
 # Loading and preprocess
+There are some scripts may help you load and preprocess data. Please the the comments in these scripts.
+
+
 In `grouping.py`, there are scripts for grouing isolated GUI compoennts.
+
+
 In `color_map.py` and `data_prepare.py`, there are some scripts for drawing the wireframe of GUI pages and load XML metadata
 
 # app ids examples
