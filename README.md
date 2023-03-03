@@ -12,7 +12,7 @@ Finally, we collect 5,593 valid phone-tablet app pairs from 22 app categories.
 
 
 
-# Data Collection
+## Data Collection
 
 First, we dynamically adjust the resolution of the device to match GUI pairs. 
 ![image](https://user-images.githubusercontent.com/9078829/222715144-6ccb4627-b2de-40ef-baf8-c6df13958c09.png)
@@ -22,8 +22,18 @@ Second, we compare the similarities of two GUIs from phones and tablets and matc
 ![image](https://user-images.githubusercontent.com/9078829/222715223-90a2b8c0-96d5-473e-86b1-2f6a196c98b4.png)
 
 
-
 The `tools` directoty contains data collection tools. You may see the introduction in this directory.
 We open source two tools: Adjust resolution collector and GUI Explorer and similarity comparer.
+
+## Pair format
+
+<img width="859" alt="image" src="https://user-images.githubusercontent.com/9078829/222716723-f95a093e-6e96-4219-8c28-5c56e4e75a38.png">
+This figure shows an example of pairwise GUI pages of the app 'Spotify' in our dataset.
+All GUI pairs in one phone-tablet app pair are placed in the same directory.
+Each pair consists of four elements: a screenshot of the GUI running on the phone ('phone_1676189565_MainActivity.png'), the metadata data corresponding to the GUI screenshot on the phone ('phone_1676189565_MainActivity.xml'), a screenshot of the GUI running on the tablet ('tablet_1676189565_MainActivity.png'
+), and the metadata data corresponding to the GUI screenshot on the tablet ('tablet_1676189565_MainActivity.xml').
+The naming format for all files in the dataset is 'Device_Timestamp_Activity' Name.
+As shown in Figure, The filename tablet_1676189565_-MainActivity.xml indicates that this file was obtained by the tablet and was collected with the timestamp '1676189565', this GUI belongs to 'MainActivity' and this file is a metadata file in XML format.
+We use timestamps and activity names to distinguish phone-tablet GUI pairs.
 
 
