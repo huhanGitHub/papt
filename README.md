@@ -27,7 +27,8 @@ We open source two tools: Adjust resolution collector and GUI Explorer and simil
 
 ## Pair format
 
-<img width="859" alt="image" src="https://user-images.githubusercontent.com/9078829/222716723-f95a093e-6e96-4219-8c28-5c56e4e75a38.png">
+<img width="459" alt="image" src="https://user-images.githubusercontent.com/9078829/222717542-07412c06-6393-4046-b03a-8de0af488ca7.png">
+
 This figure shows an example of pairwise GUI pages of the app 'Spotify' in our dataset.
 All GUI pairs in one phone-tablet app pair are placed in the same directory.
 Each pair consists of four elements: a screenshot of the GUI running on the phone ('phone_1676189565_MainActivity.png'), the metadata data corresponding to the GUI screenshot on the phone ('phone_1676189565_MainActivity.xml'), a screenshot of the GUI running on the tablet ('tablet_1676189565_MainActivity.png'
