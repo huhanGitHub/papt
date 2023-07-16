@@ -49,4 +49,4 @@ We use timestamps and activity names to distinguish phone-tablet GUI pairs.
 
 We describe all the details in our source paper. You can refer to this paper to get more details.
 
-'paper link.. show soon'
+'link.. show soon'
