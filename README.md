@@ -47,6 +47,19 @@ We use timestamps and activity names to distinguish phone-tablet GUI pairs.
 
 ### Source Paper
 
-We describe all the details in our source paper. You can refer to this paper to get more details.
+We describe all the details in our source paper. You can refer to this paper to get more details. If this dataset benefits your research, we hope you cites our paper. 
 
-'link.. show soon'
+@misc{hu2023pairwise,
+
+      title={A Pairwise Dataset for GUI Conversion and Retrieval between Android Phones and Tablets}, 
+      
+      author={Han Hu and Haolan Zhan and Yujin Huang and Di Liu},
+      
+      year={2023},
+      
+      eprint={2307.13225},
+      
+      archivePrefix={arXiv},
+      
+      primaryClass={cs.HC}
+}
