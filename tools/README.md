@@ -26,7 +26,7 @@ The entire data collection pipeline is the following:
 
 ### GUI Explorer and similarity comparer
 
-We currently only publish the code for GUI exploration and collection. The code for the GUI similarity comparison will be integrated into the tool later due to some reasons of the collaborators.
+We currently only publish the code for GUI exploration and collection. The code for the GUI similarity comparison will be integrated into the tool later due to some reasons of the collaborators (The reason is that a paper involving this tool has been rejected again and again, resulting in the unpublishable source code in the paper .....).
 
 ### Loading and preprocess
 
