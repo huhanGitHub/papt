@@ -1,10 +1,10 @@
 # Papt
 
-Papt is a pairwise GUI dataset between Android phones and tablets. The detail introduction about this dataset is in the `dataset` directory.
+Papt is a pairwise GUI dataset between Android phones and tablets. A detailed introduction about this dataset is in the `dataset` directory.
 This dataset includes pairwise phone-tablet GUIs.
-Current dataset is avaliable at [Papt](https://drive.google.com/drive/folders/1a7IuofYFwntbjFkIjWDE05qvMFJGXtyF?usp=sharing).
+The current dataset is available at [Papt](https://drive.google.com/drive/folders/1a7IuofYFwntbjFkIjWDE05qvMFJGXtyF?usp=drive_link).
 
-The 'dataset' directory contain pair examples and more introduction.
+The 'dataset' directory contains pair examples and more introductions.
 
 ### Data Source
 
@@ -20,7 +20,7 @@ First, we dynamically adjust the resolution of the device to match GUI pairs.
 Second, we compare the similarities of two GUIs from phones and tablets and match two GUIs with high similarity.
 ![image](https://user-images.githubusercontent.com/9078829/222718147-98d1c20e-84dc-4913-8a6a-74867bd490a0.png)
 
-The `tools` directoty contains data collection tools. You may see the introduction in this directory.
+The `tools` directory contains data collection tools. You may see the introduction in this directory.
 We open source two tools: Adjust resolution collector and GUI Explorer and similarity comparer.
 
 ### Pair format
