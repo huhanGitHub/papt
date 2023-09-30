@@ -1,3 +1,7 @@
+# News
+
+Our manuscript regarding the methodology for collecting pairwise GUIs has been formally accepted into the NeurIPS 2023 track on datasets and benchmarks.
+
 # Papt
 
 The current dataset is available at [Papt](https://drive.google.com/drive/folders/1a7IuofYFwntbjFkIjWDE05qvMFJGXtyF?usp=drive_link).
