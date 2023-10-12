@@ -56,15 +56,12 @@ We describe all the details in our source paper. You can refer to this paper to 
 
 @misc{hu2023pairwise,
 
-      title={A Pairwise Dataset for GUI Conversion and Retrieval between Android Phones and Tablets}, 
+      title={Pairwise GUI Dataset Construction Between Android Phones and Tablets}, 
       
       author={Han Hu and Haolan Zhan and Yujin Huang and Di Liu},
       
       year={2023},
       
-      eprint={2307.13225},
+      journal={arXiv preprint arXiv:2310.04755},
       
-      archivePrefix={arXiv},
-      
-      primaryClass={cs.HC}
 }
