@@ -1,6 +1,7 @@
 # News
 
-Our manuscript regarding the methodology for collecting pairwise GUIs has been formally accepted into the NeurIPS 2023 track on datasets and benchmarks.
+Our manuscript regarding the methodology for collecting pairwise GUIs has been formally accepted into the NeurIPS 2023 track on datasets and benchmarks. 
+[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/bc4cff0b37ccab13e98b6128d89ca172-Paper-Datasets_and_Benchmarks.pdf)
 
 # Papt
 
@@ -52,16 +53,13 @@ We use timestamps and activity names to distinguish phone-tablet GUI pairs.
 
 ### Source Paper
 
-We describe all the details in our source paper. You can refer to this paper to get more details. If this dataset benefits your research, we hope you cites our paper. 
+We describe all the details in our source paper. You can refer to this paper to get more details. If this dataset benefits your research, we hope you cite our paper. 
+
+
 
 @misc{hu2023pairwise,
-
-      title={Pairwise GUI Dataset Construction Between Android Phones and Tablets}, 
-      
-      author={Han Hu and Haolan Zhan and Yujin Huang and Di Liu},
-      
-      year={2023},
-      
+      title={Pairwise GUI Dataset Construction Between Android Phones and Tablets},  
+      author={Han Hu and Haolan Zhan and Yujin Huang and Di Liu},     
       journal={Advances in Neural Information Processing Systems},
       volume={36},
       year={2024},
