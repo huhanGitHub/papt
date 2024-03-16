@@ -62,6 +62,8 @@ We describe all the details in our source paper. You can refer to this paper to 
       
       year={2023},
       
-      journal={arXiv preprint arXiv:2310.04755},
+      journal={Advances in Neural Information Processing Systems},
+      volume={36},
+      year={2024},
       
 }
