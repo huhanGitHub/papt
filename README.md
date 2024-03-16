@@ -59,9 +59,13 @@ We describe all the details in our source paper. You can refer to this paper to 
 
 @misc{hu2023pairwise,
       title={Pairwise GUI Dataset Construction Between Android Phones and Tablets},  
+      
       author={Han Hu and Haolan Zhan and Yujin Huang and Di Liu},     
+      
       journal={Advances in Neural Information Processing Systems},
+      
       volume={36},
+      
       year={2024},
       
 }
